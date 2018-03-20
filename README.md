@@ -5,3 +5,4 @@ sorts and filters it, and changes the current system's HTTP(s) settings accordin
 
 It requires the following packages: BeautifulSoup, Pandas and PyQt5.
 
+(The code is not complete, so I just uploaded the Jupyter notebook for the purpose of illustration.)
